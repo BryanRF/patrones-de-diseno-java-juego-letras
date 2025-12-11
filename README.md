@@ -481,13 +481,6 @@ El proyecto está diseñado para ser fácilmente extensible:
 
 Este proyecto está diseñado como ejemplo educativo de arquitectura de software y patrones de diseño. Las contribuciones son bienvenidas para mejorar la documentación, agregar nuevas características o corregir errores.
 
-## 📄 Licencia
-
-Este proyecto es de uso educativo y demostrativo.
-
-## 👨‍💻 Autor
-
-Desarrollado como proyecto educativo demostrando arquitectura de software limpia y patrones de diseño.
 
 ---
 
