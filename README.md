@@ -1,4 +1,4 @@
-# 🎮 Proyecto ABCD Game
+# 🎮 Proyecto ABCDario Game
 
 ![Loading Screen](resource-readme/loading.png)
 
