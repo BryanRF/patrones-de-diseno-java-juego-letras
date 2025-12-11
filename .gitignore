@@ -1,0 +1,126 @@
+# ============================================
+# Archivos y Carpetas Generados por Build
+# ============================================
+build/
+
+target/
+out/
+*.class
+
+# ============================================
+# Archivos de Base de Datos
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# NetBeans - Archivos de Configuración Privados
+# ============================================
+nbproject/private/
+nbproject/build/
+nbproject/dist/
+nbproject/nbproject/
+.nb-gradle/
+
+# ============================================
+# IntelliJ IDEA (por si alguien usa este IDE)
+# ============================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ============================================
+# Eclipse (por si alguien usa este IDE)
+# ============================================
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+
+# ============================================
+# Archivos del Sistema Operativo
+# ============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ============================================
+# Archivos de Log
+# ============================================
+*.log
+logs/
+*.log.*
+
+# ============================================
+# Archivos Temporales
+# ============================================
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+
+# ============================================
+# Archivos de Backup
+# ============================================
+*.bak
+*.backup
+*~
+
+# ============================================
+# Archivos de Configuración Local
+# ============================================
+config.properties
+local.properties
+.env
+.env.local
+
+# ============================================
+# Archivos de Empaquetado
+# ============================================
+*.jar
+!dist/lib/*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# ============================================
+# Archivos de Documentación Generados
+# ============================================
+javadoc/
+doc/
+docs/generated/
+
+# ============================================
+# Archivos de Testing
+# ============================================
+test-results/
+coverage/
+.nyc_output/
+
+# ============================================
+# Nota: Los archivos en dist/lib/*.jar son necesarios
+# para la ejecución del proyecto, por lo que se incluyen
+# ============================================
